@@ -18,7 +18,7 @@ perm_gacc="android.permission.GET_ACCOUNTS"
 perm_rsms="android.permission.RECEIVE_SMS"
 
 # Packages
-microG="com.google.android.gms"
+microG="org.microg.nlp.app"
 PlayStore="com.android.vending"
 GCalSync="com.google.android.syncadapters.calendar"
 GConSync="com.google.android.syncadapters.contacts"

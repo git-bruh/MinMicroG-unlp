@@ -18,17 +18,10 @@ minMagisk=1900
 ";
 
 stuff="
-  /system/app/AppleNLPBackend/AppleNLPBackend.apk
-  /system/app/DejaVuNLPBackend/DejaVuNLPBackend.apk
-  /system/app/LocalGSMNLPBackend/LocalGSMNLPBackend.apk
-  /system/app/LocalWiFiNLPBackend/LocalWiFiNLPBackend.apk
-  /system/app/MozillaUnifiedNLPBackend/MozillaUnifiedNLPBackend.apk
-  /system/app/NominatimNLPBackend/NominatimNLPBackend.apk
-
   /system/bin/npem
 
   /system/etc/default-permissions/microg-permissions-unlp.xml
-  /system/etc/permissions/com.google.android.gms.xml
+  /system/etc/permissions/org.microg.nlp.app.xml
   /system/etc/sysconfig/nogoolag-unlp.xml
 
   /system/priv-app/MicroGUNLP/MicroGUNLP.apk
